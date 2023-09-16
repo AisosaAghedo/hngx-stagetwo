@@ -41,7 +41,7 @@
                                height: "32rem",
                                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(${imagePath}${movie.backdrop_path})`,
                                backgroundSize: "contain",
-                                backgroundRepeat: "no-repeat",
+                                backgroundRepeat: "repeat",
                                backgroundPosition: "90% 10%",
                              }}
                            >
