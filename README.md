@@ -39,8 +39,7 @@ REACT_APP_API_KEY=your_api_key_here
 ## Contributing
 Feel free to contribute to this project. If you find any bugs or have feature requests, please open an issue. Pull requests are also welcome.
 
- ## Live link https://movie-m1x9f4026-aisosaaghedo.vercel.app
-
+ ## Live link https://movie-7xcsbq8f4-aisosaaghedo.vercel.app
 
 
 
