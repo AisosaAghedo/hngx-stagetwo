@@ -14,8 +14,8 @@ import MenuIcon from "../assets/assets/Menu.svg";
 function Navigation() {
   return (
     <>
-      {["lg"].map((expand) => (
-        <Navbar expand="lg">
+      {["lg"].map((expand, index) => (
+        <Navbar expand="lg" key={index}>
           <Container>
             <Navbar.Brand href="#">
               <img src={Logo} alt="Logo" />
