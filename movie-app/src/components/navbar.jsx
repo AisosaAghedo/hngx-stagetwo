@@ -8,7 +8,7 @@ import {
 } from "react-bootstrap";
 import "../App.css";
 import Logo from "../assets/assets/Logo.svg";
-import Search from "../assets/assets/search.svg";
+import Search from "../assets/assets/Search.svg";
 import MenuIcon from "../assets/assets/Menu.svg";
 
 function Navigation() {
